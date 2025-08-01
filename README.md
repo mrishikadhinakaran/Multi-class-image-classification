@@ -1,4 +1,4 @@
-# 🔍 HyperVerge ML Internship Challenge – ResNet18 Based Semi-Supervised Image Classification
+# 🔍 HyperVerge ML Internship Interview Challenge – ResNet18 Based Semi-Supervised Image Classification
 
 This repository contains my solution to the **Machine Learning Engineer Challenge** conducted by [HyperVerge](https://hyperverge.co/). It includes both a **baseline supervised model** and a **semi-supervised extension** using pseudo-labeling.
 
